@@ -1,5 +1,8 @@
 [package]
+authors = ["Sakura"]
 name = "pink_log"
+description = "A simple lightweight logger for Rust"
+license = "GPL-3"
 version = "0.1.0"
 edition = "2021"
 

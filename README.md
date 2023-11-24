@@ -4,8 +4,8 @@ A simple lightweight logger written in Rust (WIP)
 
 WARNING: This is an early version and is not ready for beta let alone production.
 
-Crate: https://crates.io/crates/pink_log
-
+Crate: https://crates.io/crates/pink_log<br>
+Github: https://github.com/SakuraKade/pink_log
 
 
 ### Examples
